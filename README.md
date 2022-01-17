@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 반가워요! 👋
+
+I'm a Frontend Developer working in Cincinnati, Ohio.
+
+[Website](www.griffinstrayer.com)
 
 <!--
-**Gobluebro/Gobluebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📚 Currently learning Vue and React JS
+- 🇰🇷 Korean language learner / 한국어 배우고있음
+- ⌨️ I can't stop talking about keyboards / 키보드병
