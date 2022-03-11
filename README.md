@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 Currently learning Vue and React JS
+- ⚛️ Currently useing React with Next JS
 - 🇰🇷 Korean language learner / 한국어 배우고있음
 - ⌨️ I can't stop talking about keyboards / 키보드병
