@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚛️ Currently useing React with Next JS
-- 🇰🇷 Korean language learner / 한국어 배우고있음
-- ⌨️ I can't stop talking about keyboards / 키보드병
+- ⚛️ Currently useing React with Next JS / React와 Next JS 쓰고있어요
+- 🇰🇷 Korean language learner / 한국어 배우고있어요
+- ⌨️ I can't stop talking about keyboards / 키보드병에 걸렸어요
