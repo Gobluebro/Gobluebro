@@ -1,6 +1,8 @@
 ### Hi there 반가워요! 👋
 
-I'm a Frontend Developer working in Cincinnati, Ohio.
+I'm a Frontend Developer based in Cincinnati, Ohio. 
+
+I'm currently looking for remote work or work based near Cincinnati.
 
 [Website](www.griffinstrayer.com)
 
