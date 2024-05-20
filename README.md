@@ -4,8 +4,6 @@ I'm a Frontend Developer based in Cincinnati, Ohio.
 
 I'm currently looking for remote work or work based near Cincinnati.
 
-[Website](https://www.griffinstrayer.com)
-
 <!--
 Here are some ideas to get you started:
 
